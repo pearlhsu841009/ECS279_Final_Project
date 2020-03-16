@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{59568EF6-27A6-12B6-DDAA-57F3FD25C0FF}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/EricaController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/EricaController.cs" Line="8" Column="21" />
+      <File FileName="../CharacterController/Assets/Scripts/KnightController.cs" Line="12" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProjectErica" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="EricaController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="acdc0d42-b46d-4f41-b7c9-c1a4d58263dd" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
