@@ -163,7 +163,27 @@ ModelImporter:
     13700002: Erika_Archer_Clothes_Mesh
     13700004: Erika_Archer_Eyelashes_Mesh
     13700006: Erika_Archer_Eyes_Mesh
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Akai_MAT
+    second: {fileID: 2100004, guid: 3e1e539d806d24e3d9e11a050cf24f73, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body_MAT
+    second: {fileID: 2100006, guid: 41c7c1ba68a754394bf57d89f6f44023, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EyeSpec_MAT
+    second: {fileID: 2100002, guid: da4210a319bc342a88867cb7c4782e3f, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lashes_MAT
+    second: {fileID: 2100008, guid: fa9bd3089d52f457d833e8dc626eb58f, type: 3}
   materials:
     importMaterials: 1
     materialName: 0
